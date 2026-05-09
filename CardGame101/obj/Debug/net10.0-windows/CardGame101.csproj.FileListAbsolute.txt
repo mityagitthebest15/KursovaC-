@@ -1,0 +1,14 @@
+C:\Users\Hello\Desktop\KursovaC#\CardGame101\bin\Debug\net10.0-windows\CardGame101.exe
+C:\Users\Hello\Desktop\KursovaC#\CardGame101\bin\Debug\net10.0-windows\CardGame101.deps.json
+C:\Users\Hello\Desktop\KursovaC#\CardGame101\bin\Debug\net10.0-windows\CardGame101.runtimeconfig.json
+C:\Users\Hello\Desktop\KursovaC#\CardGame101\bin\Debug\net10.0-windows\CardGame101.dll
+C:\Users\Hello\Desktop\KursovaC#\CardGame101\bin\Debug\net10.0-windows\CardGame101.pdb
+C:\Users\Hello\Desktop\KursovaC#\CardGame101\obj\Debug\net10.0-windows\CardGame101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hello\Desktop\KursovaC#\CardGame101\obj\Debug\net10.0-windows\CardGame101.AssemblyInfoInputs.cache
+C:\Users\Hello\Desktop\KursovaC#\CardGame101\obj\Debug\net10.0-windows\CardGame101.AssemblyInfo.cs
+C:\Users\Hello\Desktop\KursovaC#\CardGame101\obj\Debug\net10.0-windows\CardGame101.csproj.CoreCompileInputs.cache
+C:\Users\Hello\Desktop\KursovaC#\CardGame101\obj\Debug\net10.0-windows\CardGame101.dll
+C:\Users\Hello\Desktop\KursovaC#\CardGame101\obj\Debug\net10.0-windows\refint\CardGame101.dll
+C:\Users\Hello\Desktop\KursovaC#\CardGame101\obj\Debug\net10.0-windows\CardGame101.pdb
+C:\Users\Hello\Desktop\KursovaC#\CardGame101\obj\Debug\net10.0-windows\CardGame101.genruntimeconfig.cache
+C:\Users\Hello\Desktop\KursovaC#\CardGame101\obj\Debug\net10.0-windows\ref\CardGame101.dll

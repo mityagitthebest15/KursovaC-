@@ -1,0 +1,133 @@
+{
+  "Players": [
+    {
+      "Name": "\u0412\u0438",
+      "Hand": [
+        {
+          "Suit": 3,
+          "Rank": 4
+        },
+        {
+          "Suit": 3,
+          "Rank": 0
+        },
+        {
+          "Suit": 0,
+          "Rank": 0
+        },
+        {
+          "Suit": 3,
+          "Rank": 2
+        },
+        {
+          "Suit": 2,
+          "Rank": 0
+        },
+        {
+          "Suit": 1,
+          "Rank": 0
+        },
+        {
+          "Suit": 3,
+          "Rank": 7
+        },
+        {
+          "Suit": 1,
+          "Rank": 5
+        },
+        {
+          "Suit": 2,
+          "Rank": 3
+        }
+      ],
+      "Score": 72,
+      "IsBot": false
+    },
+    {
+      "Name": "Bot 1",
+      "Hand": [
+        {
+          "Suit": 0,
+          "Rank": 5
+        }
+      ],
+      "Score": 42,
+      "IsBot": true
+    },
+    {
+      "Name": "Bot 2",
+      "Hand": [
+        {
+          "Suit": 0,
+          "Rank": 7
+        },
+        {
+          "Suit": 2,
+          "Rank": 1
+        }
+      ],
+      "Score": 30,
+      "IsBot": true
+    },
+    {
+      "Name": "Bot 3",
+      "Hand": [
+        {
+          "Suit": 2,
+          "Rank": 8
+        },
+        {
+          "Suit": 2,
+          "Rank": 5
+        },
+        {
+          "Suit": 2,
+          "Rank": 4
+        },
+        {
+          "Suit": 1,
+          "Rank": 8
+        }
+      ],
+      "Score": 13,
+      "IsBot": true
+    }
+  ],
+  "Deck": [
+    {
+      "Suit": 0,
+      "Rank": 8
+    },
+    {
+      "Suit": 3,
+      "Rank": 5
+    },
+    {
+      "Suit": 2,
+      "Rank": 2
+    },
+    {
+      "Suit": 1,
+      "Rank": 4
+    },
+    {
+      "Suit": 1,
+      "Rank": 1
+    },
+    {
+      "Suit": 3,
+      "Rank": 8
+    }
+  ],
+  "TopCard": {
+    "Suit": 1,
+    "Rank": 7
+  },
+  "CurrentSuit": 1,
+  "CurrentPlayerIndex": 1,
+  "NeedsToCoverNine": false,
+  "CardsToDraw": 0,
+  "SkipNext": false,
+  "IsRoundOver": false,
+  "IsGameOver": false
+}
